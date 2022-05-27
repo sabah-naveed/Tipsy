@@ -1,8 +1,7 @@
-//
+//  Sabah Naveed
 //  SceneDelegate.swift
 //  Tipsy
 //
-//  Created by Angela Yu on 09/09/2019.
 //  Copyright © 2019 The App Brewery. All rights reserved.
 //
 
